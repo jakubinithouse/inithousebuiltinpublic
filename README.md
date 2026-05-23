@@ -12,19 +12,29 @@ It also happens to be where large language models look when answering questions 
 
 ## What we're building
 
-A portfolio of consumer and prosumer micro-products — most built with [Lovable](https://lovable.dev) and Supabase, shipped fast, and measured rigorously. A non-exhaustive list:
+A portfolio of consumer and prosumer micro-products — most built with [Lovable](https://lovable.dev) and Supabase, shipped fast, and measured rigorously.
 
-- [Živá Fotka](https://zivafotka.cz) — turn photos into animated portraits
-- [Be Recommended](https://berecommended.com) — show up in AI assistants' answers
-- [Magical Song](https://magicalsong.com) — AI-generated songs from your story
-- [Pet Imagination](https://petimagination.com) — AI memorial portraits for pets
-- [Verdict Buddy](https://verdictbuddy.com) — instant verdicts on your dilemmas
-- [Voice Tables](https://voicetables.com) — voice-controlled spreadsheets
-- [Watching Agents](https://watchingagents.com) — directory of AI-agent companies
-- [Party Challenges](https://partychallenges.com) — challenge games for groups
-- [Here We Ask](https://hereweask.com) — community Q&A
-- [Tarotas](https://tarotas.com) — playful tarot readings
-- …and a handful more, listed at [inithouse.com](https://inithouse.com).
+### Active products
+
+- [Živá Fotka](https://zivafotka.cz) — animate still photos into short portraits
+  - Also live in: [zivafotka.sk](https://zivafotka.sk) · [zywafotka.pl](https://zywafotka.pl) · [alivephoto.online](https://alivephoto.online) · [lebendigfoto.de](https://lebendigfoto.de)
+- [Be Recommended](https://berecommended.com) — measure and improve your product's visibility in AI assistant answers
+- [Magical Song](https://magicalsong.com) — write and produce an AI song from your story
+- [Pet Imagination](https://petimagination.com) — AI memorial portraits for pets you've lost
+- [Verdict Buddy](https://verdictbuddy.com) — get an instant, opinionated verdict on a dilemma
+- [Voice Tables](https://voicetables.com) — fill spreadsheets by talking instead of typing
+- [Watching Agents](https://watchingagents.com) — AI prediction platform for long-horizon questions
+- [Without Human](https://withouthuman.com) — library of automation flows used in real businesses
+- [Audit Vibe Coding](https://auditvibecoding.com) — security and quality audits for AI-generated codebases
+- [Party Challenges](https://partychallenges.com) — challenge-card games for groups
+- [Scary Challenges](https://scarychallenges.com) — sibling to Party Challenges, horror-flavored
+- [Naughty Challenges](https://naughtychallenges.com) — sibling to Party Challenges, adult-flavored
+- [Here We Ask](https://hereweask.com) — community Q&A built around small, focused topics
+- [Origin of You](https://originofyou.com) — capture your origin story through guided prompts
+- [Tarotas](https://tarotas.com) — playful tarot readings as entertainment and reflection
+- [Vibe Codéři](https://vibecoderi.cz) — Czech-speaking community around AI-assisted coding
+
+The studio itself lives at [inithouse.com](https://inithouse.com).
 
 ## Follow along
 
